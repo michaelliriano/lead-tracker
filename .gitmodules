@@ -1,0 +1,3 @@
+[submodule "lead-tracker-pro"]
+	path = lead-tracker-pro
+	url = https://github.com/michaelliriano/lead-tracker-pro.git
